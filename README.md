@@ -6,7 +6,8 @@
 - 🔭 I’m currently  Trainee at [App Trainers](https://www.linkedin.com/company/apptrainers/)
 - 🌱 I’m currently studying `Flutter` 
 - 📫 How to reach me **engmuna2002m@gmail.com**
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1dh_qWIEUuSObmTFZdwPyNjpbA4QQz9hd/view?usp=sharing).
+- My Portfolio this is [MY Porfolio](https://drive.google.com/file/d/1tWktQ6uCLLhcX91NagEYRlZztGDD4qmj/view?usp=sharing)
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
 
